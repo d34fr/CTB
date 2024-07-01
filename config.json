@@ -1,0 +1,6 @@
+{
+  "token": "Token de votre Bot (Oublier pas les intents)",
+  "owners": ["Votre ID", "Id d'un autre admin du bot (pas obligé)"],
+  "prefix": "!",
+  "color": "#ffdb58"
+}
